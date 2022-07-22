@@ -1,4 +1,4 @@
-# ALG1-CEV(exercícios Prof. GUSTAVO GUANABARA)PASSO 01 - SEQUÊNCIAS BÁSICAS
+# PASSO 01 - SEQUÊNCIAS BÁSICAS(exercícios Prof. GUSTAVO GUANABARA)
 
 1) Escreva um programa que mostre na tela a mensagem "Olá, Mundo!"
 2) Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boasvindas para ela:
