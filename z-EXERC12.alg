@@ -6,6 +6,6 @@ preco, desc:real
 Inicio
   escreva("Preço: ")
     leia(preco)
-   desc<-(preco*5/100)
+   desc<-preco-(preco*5/100)
   escreva("Preço com 5% de desconto: R$",desc:1:2,".")
 Fimalgoritmo
